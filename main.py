@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 model_path = "C:/Users/M.I.S SITHLTD/Desktop/olajide/reddit_comment_classification/svm_classifier_model.pkl"
-vect_path = "C:/Users/M.I.S SITHLTD/Desktop/olajide/reddit_comment_classification/tfidf_vectorizer.pkl"
+vect_path = "tfidf_vectorizer.pkl"
 
 try:
     # Open the model file in binary read mode and load the model

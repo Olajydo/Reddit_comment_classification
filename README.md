@@ -19,4 +19,4 @@ Predict labels: Use the best model to predict the labels in the test set.
 Save the result: Save the predicted characters with user name and comments to a CSV file.
 The best choice
 
-After evaluating both models, SVM achieved an accuracy of 0.92 and CNN achieved an accuracy of 0.90. SVM was chosen as the preferred model for this classification task due to its relatively high accuracy. Although the difference in accuracy is small, the excellent performance of SVM makes it a good choice for ensuring accuracy of prediction.
+After evaluating both models, SVM achieved slightly more on accuracy than CNN achieved did. SVM was chosen as the preferred model for this classification task due to its relatively high accuracy. Although the difference in accuracy is small, the excellent performance of SVM makes it a good choice for ensuring accuracy of prediction.

@@ -1,5 +1,5 @@
 # Reddit comment classification
-Here is the link to the streamlink classifier " https://redditcommentclassifier.streamlit.app/ "
+Here is the link to the streamlit classifier " https://redditcommentclassifier.streamlit.app/ "
 
 
 This work compares the performance of a support vector machine (SVM) and a convolutional neural network (CNN) model to classify Reddit posts: "medical doctor," "veterinarian," or "other."
